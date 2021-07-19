@@ -1,0 +1,8 @@
+$ apt-get install python-y
+Reading package lists... Done
+Building dependency tree... Done
+E: Unable to locate package python-y
+$ apt-get install git-y
+Reading package lists... Done
+Building dependency tree... Done
+E: Unable to locate package git-y
